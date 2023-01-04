@@ -1,6 +1,5 @@
 *{
     margin: 0;padding: 0;
-
 }
 h1{
     text-align: center;
@@ -34,8 +33,7 @@ h1{
 }
 .div1{
     height: 100%;
-    width: 30%;
-    
+    width: 30%;   
 }
 .div2{
     height: 100%;
@@ -48,7 +46,6 @@ h1{
     height: 100%;
     width: 40%;
     background-color: #ffdde58a;
-
 }
 .div4{
     width: 27%;
